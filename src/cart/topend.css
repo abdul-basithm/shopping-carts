@@ -1,0 +1,17 @@
+.top {
+    padding: 80px;
+    text-align: center;
+    background-color: rgb(71, 67, 67);
+    color: white;
+
+}
+
+p.slogan {
+    font-size: 23px;
+    color: rgb(153, 151, 151);
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}

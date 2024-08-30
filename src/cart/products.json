@@ -1,0 +1,83 @@
+[
+    {
+        "productID": 1001,
+        "productName": "Face Cream",
+        "productCatagory": "cosmetics",
+        "price": 200,
+        "productImg": "https://plumgoodness.com/cdn/shop/files/01_fb47a245-e126-499b-8ebf-c975fb54ebe2.jpg",
+        "sale": true,
+        "rating": 5
+    },
+    {
+        "productID": 1002,
+        "productName": "Bathing Soap",
+        "productCatagory": "Soap",
+        "price": 80,
+        "productImg": "https://starbazaarindia.com/cdn/shop/files/Soaps_1600pxl_9488e87a-4047-4a87-8571-088ee5685abd_1300x.jpg",
+        "sale": true,
+        "rating": 5
+    },
+    {
+        "productID": 1003,
+        "productName": "LED TV",
+        "productCatagory": "Electronics",
+        "price": 24000,
+        "productImg": "https://nandilathgmart.com/wp-content/uploads/2023/07/LG-81-cm-32-inchesHD-Ready-Smart-LED-TV-32LQ640BPTAGrey-1.png",
+        "sale": false,
+        "rating": 5
+    },
+    {
+        "productID": 1004,
+        "productName": "Laptop",
+        "productCatagory": "Electronics",
+        "price": 15000,
+        "productImg": "https://cdn.thewirecutter.com/wp-content/media/2023/06/bestlaptops-2048px-9765.jpg",
+        "sale": true,
+        "rating": 5
+    },
+    {
+        "productID": 1005,
+        "productName": "Mobile",
+        "productCatagory": "Electronics",
+        "price": 8000,
+        "productImg": "https://images-cdn.ubuy.co.in/633b5984f8af8c7e5a371e0b-na-i13-pro-max-cell-phones-6-3-inch-hd.jpg",
+        "sale": true,
+        "rating": 2
+    },
+    {
+        "productID": 1006,
+        "productName": "T-Shirt",
+        "productCatagory": "Clothing",
+        "price": 650,
+        "productImg": "https://chriscross.in/cdn/shop/files/95_600x.jpg",
+        "sale": true,
+        "rating": 5
+    },
+    {
+        "productID": 1007,
+        "productName": "Fruits",
+        "productCatagory": "Food",
+        "price": 400,
+        "productImg": "https://www.expressluv.com/cdn/shop/products/1465615767365_fruit-basket-sw.jpg",
+        "sale": false,
+        "rating": 3
+    },
+    {
+        "productID": 1008,
+        "productName": "Toy-car",
+        "productCatagory": "Toys",
+        "price": 3000,
+        "productImg": "https://isakaabengaluru.com/wp-content/uploads/2022/04/71dEWXwH0cL._SL1500_-510x510.jpg",
+        "sale": true,
+        "rating": 4
+    },
+    {
+        "productID": 1009,
+        "productName": "Bags",
+        "productCatagory": "Leather",
+        "price": 5000,
+        "productImg": "https://www.voganow.com/cdn/shop/files/BBMO-105-09_1_19748a3f-f0fb-425c-857b-f27c57149aee.jpg",
+        "sale": true,
+        "rating": 5
+    }
+]

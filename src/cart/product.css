@@ -1,0 +1,46 @@
+.pic {
+    width: 220px;
+    height: 270px;
+    position: relative;
+    object-fit: contain;
+}
+
+.card {
+    display: inline-flex;
+    text-align: center;
+    margin: 25px;
+
+}
+
+.container {
+    margin-left: 50px;
+    width: 100%;
+
+}
+
+.cart {
+    margin: 5px
+}
+
+p.card-text {
+    margin-bottom: 1px;
+}
+
+.sale {
+    background-color: black;
+    color: white;
+    display: block;
+    border: 1px solid;
+    border-radius: 8px;
+    width: fit-content;
+    padding-left: 3px;
+    padding-right: 3px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.star {
+    color: orange;
+    font-size: 20px;
+}
